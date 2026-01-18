@@ -1,0 +1,21 @@
+{
+  "name": "devtinderbe",
+  "version": "1.0.0",
+  "description": "Tinder for devs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "full",
+    "stack"
+  ],
+  "author": "Jatin Tyagi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
